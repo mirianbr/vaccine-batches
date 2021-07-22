@@ -1,3 +1,4 @@
+ship_to_state,vaccine_distribution_phase,order_number,order_date,supplier_name,manufacturer_name,expiration_date,batch_number
 ac,fase1,339082,2021-01-17 00:00:00,FUNDAÇÃO BUTANTAN,FUNDAÇÃO BUTANTAN,2023-10-27 00:00:00,202010040
 ac,fase1,339082,2021-01-17 00:00:00,FUNDAÇÃO BUTANTAN,FUNDAÇÃO BUTANTAN,2023-10-16 00:00:00,202010028
 ac,fase10,346118,2021-03-24 00:00:00,ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE,ASTRAZENECA AB,2021-04-30 00:00:00,CTMAVB501
