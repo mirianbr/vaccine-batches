@@ -8,6 +8,8 @@ The vaccine batches information is made available by the Brazilian government ag
 
 The data extraction was originally done using python, imagemagick and pytesseract (see [Jupyter Notebook](https://github.com/mirianbr/vaccine-batches/blob/main/vaccine-batches-dataset.ipynb)). You can see the raw result [here](https://github.com/mirianbr/vaccine-batches/blob/main/csv/batches-raw.csv).
 
-Current status (as of July 22nd, 2021): I'm currently cleaning the dataset to make it public. Feel free to contact me if you have any thoughts, suggestions or questions.
+A partial clean version (for states Acre-AC, Alagoas-AL, Amazonas-AM only) can be seen [here](https://github.com/mirianbr/vaccine-batches/blob/main/csv/batches-AC%2C%20AL%2C%20AM.csv).
+
+Current status (as of July 23rd, 2021): I'm currently cleaning the dataset to make it public. Feel free to contact me if you have any thoughts, suggestions or questions.
 
 Original data source: https://sage.saude.gov.br/sistemas/vacina/vacina_fases.php
