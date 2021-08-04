@@ -13,6 +13,6 @@ The following partial clean sets are available:
 * [For the Federal District](https://github.com/mirianbr/vaccine-batches/blob/main/csv/batches-DF.csv)
 * [For the South region states - Paraná-PR, Rio Grande do Sul-RS, Santa Catarina-SC only](https://github.com/mirianbr/vaccine-batches/blob/main/csv/batches-PR%2C%20RS%2C%20SC.csv)
 
-Current status (as of Aug 8th, 2021): cleaning the dataset to make it public. Feel free to contact me if you have any thoughts, suggestions or questions.
+Current status (as of Aug 4th, 2021): cleaning the dataset to make it public. Feel free to contact me if you have any thoughts, suggestions or questions.
 
 Original data source: https://sage.saude.gov.br/sistemas/vacina/vacina_fases.php
