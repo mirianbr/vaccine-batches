@@ -10,9 +10,9 @@ The data extraction was originally done using python, imagemagick and pytesserac
 
 The following partial clean sets are available:
 * [For states Acre-AC, Alagoas-AL, Amazonas-AM only](https://github.com/mirianbr/vaccine-batches/blob/main/csv/batches-AC%2C%20AL%2C%20AM.csv)
-* [For the Federal District](https://github.com/mirianbr/vaccine-batches/blob/main/csv/batches-DF.csv)
 * [For the South region states - Paraná-PR, Rio Grande do Sul-RS, Santa Catarina-SC only](https://github.com/mirianbr/vaccine-batches/blob/main/csv/batches-PR%2C%20RS%2C%20SC.csv)
+* [For the Mid-west region states and Federal District - Distrito Federal-DF, Goiás-GO, Mato Grosso do Sul-MS, Mato Grosso-MT only](https://github.com/mirianbr/vaccine-batches/blob/main/csv/batches-DF%2C%20GO%2C%20MS%2C%20MT.csv)
 
-Current status (as of Aug 4th, 2021): cleaning the dataset to make it public. Feel free to contact me if you have any thoughts, suggestions or questions.
+Current status (as of Aug 6th, 2021): cleaning the dataset to make it public. Feel free to contact me if you have any thoughts, suggestions or questions.
 
 Original data source: https://sage.saude.gov.br/sistemas/vacina/vacina_fases.php
